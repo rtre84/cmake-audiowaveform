@@ -12,7 +12,7 @@ The above libraries are needed for this repo to compile successfully. Run
 
 Needed Environment variables | Value
 ------------ | ----------------- 
-LIBGD_LIBRARIES	| < path >/libgd-2.2.5"
+LIBGD_LIBRARIES	| < path >/libgd-2.2.5
 LIBGD_INCLUDE_DIRS |< path >/libgd-2.2.5
 LIBSNDFILE_LIBRARIES	| < path >/libsndfile 
 LIBSNDFILE_INCLUDE_DIRS	| < path >/libsndfile 
