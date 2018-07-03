@@ -1,3 +1,31 @@
+Originally Forked from: https://github.com/bbc/audiowaveform
+
+Dependencies needed | Link
+------------ | ----------------- 
+libgd-2.2.5 | https://github.com/libgd/libgd/releases
+libid3tag | https://github.com/markjeee/libid3tag
+libmad | https://github.com/markjeee/libmad
+libsndfile | https://github.com/erikd/libsndfile
+
+The above libraries are needed for this repo to compile successfully. Run ./configure && make && make install 
+on all dependencies before attempting to compile this repo.
+
+Needed Environment variables | Value
+------------ | ----------------- 
+LIBGD_LIBRARIES	| < path >/libgd-2.2.5"
+LIBGD_INCLUDE_DIRS |< path >/libgd-2.2.5
+LIBSNDFILE_LIBRARIES	| < path >/libsndfile 
+LIBSNDFILE_INCLUDE_DIRS	| < path >/libsndfile 
+LIBMAD_LIBRARIES	| < path >/libmad 
+LIBMAD_INCLUDE_DIRS	| < path >/libmad 
+LIBID3TAG_LIBRARIES	| < path >/libid3tag 
+LIBID3TAG_INCLUDE_DIRS	| < path >/libid3tag 
+
+**Note:** This forked repo with built binaries is here mostly for my convenience. Feel free to use this repo if you wish but
+as it stands there is no code difference between the original repo and this one. Binaries in cmake-build-debug were built
+to be run on OS X. 
+ 
+
 # Audio Waveform Image Generator
 
 [![Build Status](https://travis-ci.org/bbc/audiowaveform.svg?branch=master)](https://travis-ci.org/bbc/audiowaveform)
