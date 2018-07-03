@@ -18,8 +18,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edc32edb-06a7-4fb0-9b5c-c0685b6d57ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/audiowaveform.dir/src/WavFileWriter.cpp.o" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,10 +34,21 @@
       <file leaf-file-name="WavFileWriter.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/WavFileWriter.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="71" column="30" lean-forward="true" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+            <state relative-caret-position="342">
+              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
               <folding>
                 <element signature="e#1011#1037#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-518">
+              <folding>
+                <element signature="e#1012#1031#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,6 +72,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/WavFileWriter.cpp" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -88,6 +105,11 @@
               <item name="audiowaveform" type="b2602c69:ProjectViewProjectNode" />
               <item name="audiowaveform" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="audiowaveform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="audiowaveform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -113,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Unnamed">
+  <component name="RunManager" selected="Application.audiowaveform">
     <configuration name="Unnamed" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST" />
     <configuration name="audiowaveform_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="audiowaveform" TARGET_NAME="audiowaveform_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="audiowaveform" RUN_TARGET_NAME="audiowaveform_tests" TEST_MODE="SUITE_TEST" />
     <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="audiowaveform" RUN_TARGET_NAME="audiowaveform" EXPLICIT_BUILD_TARGET_NAME="all">
@@ -128,7 +150,7 @@
         <env name="LIBID3TAG_INCLUDE_DIRS" value="$PROJECT_DIR$/../libid3tag " />
       </envs>
     </configuration>
-    <configuration name="audiowaveform" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="audiowaveform" TARGET_NAME="audiowaveform" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="audiowaveform" RUN_TARGET_NAME="audiowaveform" />
+    <configuration name="audiowaveform" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-i $PROJECT_DIR$/../sonic/samples/Korg-M3R-Rock-Mutes-C3.wav -o output/test.dat -z 256 -b 8" PASS_PARENT_ENVS_2="true" PROJECT_NAME="audiowaveform" TARGET_NAME="audiowaveform" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="audiowaveform" RUN_TARGET_NAME="audiowaveform" />
     <configuration name="doc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="audiowaveform" TARGET_NAME="doc" CONFIG_NAME="Debug" />
     <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="audiowaveform" TARGET_NAME="gmock" CONFIG_NAME="Debug" />
     <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="audiowaveform" TARGET_NAME="gmock_main" CONFIG_NAME="Debug" />
@@ -136,14 +158,14 @@
     <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="audiowaveform" TARGET_NAME="gtest_main" CONFIG_NAME="Debug" />
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Google Test.Unnamed" />
       <item itemvalue="Application.audiowaveform" />
-      <item itemvalue="Google Test.audiowaveform_tests" />
       <item itemvalue="Application.doc" />
       <item itemvalue="Application.gmock" />
       <item itemvalue="Application.gmock_main" />
       <item itemvalue="Application.gtest" />
       <item itemvalue="Application.gtest_main" />
+      <item itemvalue="Google Test.Unnamed" />
+      <item itemvalue="Google Test.audiowaveform_tests" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -156,19 +178,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530592167432</updated>
-      <workItem from="1530592168913" duration="4942000" />
+      <workItem from="1530592168913" duration="5975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4942000" />
+    <option name="totallyTimeSpent" value="5975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="CMake" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
@@ -194,7 +217,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -205,10 +228,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-518">
+          <folding>
+            <element signature="e#1012#1031#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/WavFileWriter.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="71" column="30" lean-forward="true" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+        <state relative-caret-position="342">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
           <folding>
             <element signature="e#1011#1037#0" expanded="true" />
           </folding>
