@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/madlld-1.1p1/bstdfile.c
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+errno.h
+-
+sys/types.h
+-
+bstdfile.h
+/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/madlld-1.1p1/bstdfile.h
+
+/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/madlld-1.1p1/bstdfile.h
+

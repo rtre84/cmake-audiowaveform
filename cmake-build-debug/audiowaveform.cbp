@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="audiowaveform"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;CMake Files\cmake\modules\;CMake Files\src\;CMake Files\googlemock\;CMake Files\googletest\;CMake Files\googletest\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package">
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 package"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="doc">
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 doc"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="audiowaveform_tests">
+				<Option output="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/audiowaveform_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 audiowaveform_tests"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="audiowaveform_tests/fast">
+				<Option output="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/audiowaveform_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 audiowaveform_tests/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package_source">
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 package_source"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="audiowaveform">
+				<Option output="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/audiowaveform" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 audiowaveform"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="audiowaveform/fast">
+				<Option output="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/audiowaveform" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 audiowaveform/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock">
+				<Option output="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/libgmock.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock/fast">
+				<Option output="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/libgmock.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_main">
+				<Option output="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/libgmock_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_main/fast">
+				<Option output="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/libgmock_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/include"/>
+					<Add directory="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock/src/gmock-all.cc">
+			<Option target="gmock"/>
+			<Option target="gmock_main"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock/src/gmock_main.cc">
+			<Option target="gmock_main"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/src/gtest-all.cc">
+			<Option target="gmock"/>
+			<Option target="gmock_main"/>
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/AudioFileReader.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/AudioFileReader.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/AudioProcessor.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/AudioProcessor.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/BStdFile.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/BStdFile.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/DurationCalculator.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/DurationCalculator.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/Error.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/Error.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/GdImageRenderer.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/GdImageRenderer.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/Main.cpp">
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/MathUtil.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/MathUtil.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/Mp3AudioFileReader.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/Mp3AudioFileReader.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/OptionHandler.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/OptionHandler.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/Options.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/Options.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/Rgba.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/Rgba.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/SndFileAudioFileReader.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/SndFileAudioFileReader.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/TimeUtil.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/TimeUtil.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/WavFileWriter.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/WavFileWriter.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/WaveformBuffer.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/WaveformBuffer.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/WaveformColors.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/WaveformColors.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/WaveformGenerator.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/WaveformGenerator.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/WaveformRescaler.cpp">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/WaveformRescaler.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/madlld-1.1p1/bstdfile.c">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/madlld-1.1p1/bstdfile.h">
+			<Option target="audiowaveform_tests"/>
+			<Option target="audiowaveform"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/AudioFileReaderTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/GdImageRendererTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/MathUtilTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/Mp3AudioFileReaderTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/OptionHandlerTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/OptionsTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/RgbaTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/SndFileAudioFileReaderTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/TimeUtilTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/WavFileWriterTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/WaveformBufferTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/WaveformGeneratorTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/WaveformRescalerTest.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/util/FileDeleter.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/util/FileDeleter.h">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/util/FileUtil.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/util/FileUtil.h">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/util/Streams.cpp">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/test/util/Streams.h">
+			<Option target="audiowaveform_tests"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake/modules/FindLibGD.cmake">
+			<Option virtualFolder="CMake Files\cmake\modules\"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake/modules/FindLibId3Tag.cmake">
+			<Option virtualFolder="CMake Files\cmake\modules\"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake/modules/FindLibMad.cmake">
+			<Option virtualFolder="CMake Files\cmake\modules\"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake/modules/FindLibSndFile.cmake">
+			<Option virtualFolder="CMake Files\cmake\modules\"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake/modules/SystemInfo.cmake">
+			<Option virtualFolder="CMake Files\cmake\modules\"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/src/Config.h.in">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\googlemock\"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\googletest\"/>
+		</Unit>
+		<Unit filename="/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\googletest\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

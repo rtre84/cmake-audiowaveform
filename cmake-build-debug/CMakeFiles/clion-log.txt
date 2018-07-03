@@ -1,0 +1,36 @@
+"/Users/anupvasudevan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/181.5281.33/CLion.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform
+-- CMAKE_VERSION=3.10.3
+-- Build type: Debug
+-- CMAKE_MODULE_PATH='/Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake/modules'
+-- Building version 1.2.2
+-- LIBGD_INCLUDE_DIRS='/usr/local/include'
+-- LIBGD_LIBRARIES=/usr/local/lib/libgd.dylib
+-- LIBSNDFILE_INCLUDE_DIRS='/usr/local/include'
+-- LIBSNDFILE_LIBRARIES=/usr/local/lib/libsndfile.dylib
+-- LIBMAD_INCLUDE_DIRS='/usr/local/include'
+-- LIBMAD_LIBRARIES=/usr/local/lib/libmad.dylib
+-- LIBID3TAG_INCLUDE_DIRS='/usr/local/include'
+-- LIBID3TAG_LIBRARIES=/usr/local/lib/libid3tag.dylib
+-- Boost version: 1.60.0
+-- Found the following Boost libraries:
+--   program_options
+--   filesystem
+--   regex
+--   system
+-- Boost_INCLUDE_DIRS='/usr/local/include'
+-- Boost_LIBRARIES='/usr/local/lib/libboost_program_options-mt.dylib;/usr/local/lib/libboost_filesystem-mt.dylib;/usr/local/lib/libboost_regex-mt.dylib;/usr/local/lib/libboost_system-mt.dylib'
+-- CMAKE_CXX_COMPILER_VERSION='8.0.0.8000042'
+-- CMAKE_CXX_FLAGS='-stdlib=libc++ -std=c++0x -DGTEST_LANG_CXX11=0 -Wall -Wextra -Wconversion -pedantic -DBOOST_FILESYSTEM_NO_DEPRECATED'
+-- CMAKE_CXX_FLAGS_DEBUG='-g'
+-- CMAKE_CXX_FLAGS_RELEASE='-O3 -DNDEBUG'
+-- CMAKE_CXX_COMPILE_OBJECT='<CMAKE_CXX_COMPILER>  <DEFINES> <INCLUDES> <FLAGS> -o <OBJECT> -c <SOURCE>'
+-- Found PythonInterp: /Users/anupvasudevan/anaconda3/bin/python (found version "3.6.2") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - found
+-- Found Threads: TRUE  
+-- CMAKE_INSTALL_PREFIX='/usr/local'
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/anupvasudevan/Code/hacksummit-hackathon-blockchain-2018/audiowaveform/cmake-build-debug

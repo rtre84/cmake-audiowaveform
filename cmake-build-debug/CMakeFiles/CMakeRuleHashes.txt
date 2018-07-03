@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+3811400f3f3a2e1682582983fd9fe129 CMakeFiles/doc
+fe12108a36da0596c591a9165ae00a87 doc/audiowaveform.1.gz
+1599376984450491b4fcdd114de8ebec doc/audiowaveform.5.gz
