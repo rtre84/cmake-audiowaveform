@@ -7,8 +7,8 @@ libid3tag | https://github.com/markjeee/libid3tag
 libmad | https://github.com/markjeee/libmad
 libsndfile | https://github.com/erikd/libsndfile
 
-The above libraries are needed for this repo to compile successfully. Run ./configure && make && make install 
-on all dependencies before attempting to compile this repo.
+The above libraries are needed for this repo to compile successfully. Run 
+```./configure && make && make install``` on all dependencies before attempting to compile this repo.
 
 Needed Environment variables | Value
 ------------ | ----------------- 
